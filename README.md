@@ -1,2 +1,2 @@
-# Electricity_Power_Forecasting
-[개인R&amp;D] 전력 수요 예측
+# Electricity_power_forecasting
+시간대별 전력 수요량 예측
